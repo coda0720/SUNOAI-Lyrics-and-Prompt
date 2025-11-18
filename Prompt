@@ -1,41 +1,11 @@
-不協和音のグランジを650字以内の英語でプロンプトを書いて
-グランジ特有のざらついた歪んだギター。唸りを上げながらコードを伸ばしたり、途中で途切れさせたりする。
-ドラムは予測不能にスイングし、テンポやアクセントを絶えず変化させ、温かみのある裏打ちのベースラインが出入りする。
-各セクションは脈打ち、盛り上がり、崩れ落ち、曲全体に不安定さと不協和音の響き、そして常に進化し続ける感覚を与えている。
-裏打ち。グルーブ感強調。不穏なメロディ。ボーカルのバックコーラスとしてはもりを随所に加える
-
-歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。配色
-人物を描く際は顔を不明瞭にしてほしい。物理的に隠すか、影をつけるか、背面を映して
-
-
-「許し」を提供するモノとして言葉に出しているのは、許す自分に出会うため。
-自分という人間は如何に寛大で、慎ましく、神のようで、温かなのだろうという幻想を確実にするための手段。
-それが「許し」の提供であり、言葉に出すことで実際に許す前に人格を印象付ける。
-高尚な許しなどない。聖書の登場人物の真似事に過ぎない。ハリウッドの癖を真似るように。
-ただの諦めさ。対処法が分からないから考えることをやめるんだ。
-でもそれを認めると自分が無能だと悟ることになる。だから格好よくキメるんだ！台本を読むようにな！
-
-
-能力者
-整体師である彼は生物に対してエネルギーの出し入れができる。－100ｰ100だとして、抜き取る―50は不純物取り、
-ー100は生命要素取りとなる。具体的には細胞の働きを停止させる。
-＋50は熱や血流の活性化、＋100は過剰エネルギーで麻薬の効果と副作用で身体が必要なモノを求めなくなる。
-
-
-
-
-
-
-
-これまでのやり取りを忘れて正方形画像生成依頼。コントラスト効かせて。焦点距離24MM
-
-
-
+[画像プロンプト]
+これまでのやり取りを忘れて歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。配色
+人物を描く際は顔を不明瞭にしてほしい。物理的に隠すか、影をつけるか、背面を映して。コントラスト効かせて。焦点距離24MM
 
 [drum prompt only]
 The drums move like a living creature—sluggish yet sentient—adding ghost hits and tom rolls that expand in the second bar, creating the sense of an animal twitching beneath the surface,
 drummer plays with jazz-like freedom and authority: bursts of speed, dynamic accents, fluid cymbal work, and long expressive solos that begin restrained and then erupt into frantic, aggressive flurries. Ghost strokes and tom-swells pulse beneath the beat, giving the groove an unstable, organic tension.
-上記ドラムプロンプトを固定し、500字程度のsunoai用プロンプト作成依頼。
+
 
 [heart shaped box prompt]
 offbeat. A slow-burning grunge track, built on dissonant tension and understated chaos, Use a raw chord progression like F5 - Ab5 - D5 - B5, avoiding resolution to keep the mood unstable, Guitars should be overdriven but not saturated—dry, gritty tones with subtle feedback, Drums emphasize syncopated backbeats with minimal fills, enhancing the sense of dragging unease, The melody should drift over the chords with a loose, almost detached phrasing, Lead vocals are raspy, often slurred, with sudden dynamic shifts—gritty whispers turning into strained cries, Add demonic backing vocals in key sections: deep, layered growls or warped harmonies shadowing the main vocal lines, as if echoing from another room, Keep the tempo steady but lethargic, with moments of near collapse, Let silence between chords create space for discomfort, A track that resists climax, lingering in a state of beautiful decay and emotional corrosion
@@ -43,7 +13,6 @@ offbeat grunge track built on dissonant guitar riffs and animal-like rhythmic te
 A slow-burning groove that feels unstable, predatory, and alive—an offbeat embodiment of grunge dissonance.
 
 [53-TET grunge prompt]
-
 Dual-channel microtonal grunge guitars: left channel tuned −20 cents, right channel +20 cents.
 Play power chords (E5–G5–A5) with thick distortion and wide stereo spread.
 The detuning creates a ghost pitch in the center — a haunting shimmer within the noise.
@@ -71,19 +40,19 @@ The guitars sound hollow and emotional, drums drag behind the beat, and vocals c
 The track should feel unresolved — half-asleep. offbeat.
 
 
+能力者
+整体師である彼は生物に対してエネルギーの出し入れができる。－100ｰ100だとして、抜き取る―50は不純物取り、
+ー100は生命要素取りとなる。具体的には細胞の働きを停止させる。
+＋50は熱や血流の活性化、＋100は過剰エネルギーで麻薬の効果と副作用で身体が必要なモノを求めなくなる。
 
 
 
+タイトル：非凡
 
-
-
-
-タイトル：
-
-A heavy grunge track built on detuned microtonal power chords (E5–G5–A5–G5).
-Each chord drifts slightly out of tune — G flattened by 20 cents, A sharpened by 20 cents — creating a dragging, elastic groove.
-The drums hit late and swing with mechanical tension. Bass follows loosely behind, giving a sense of unstable motion.
-Guitars sound raw, overdriven, and alive, like metal scraping through the mix.
+A melancholic grunge progression (E5–A5–G#5–F5) performed in microtonal tuning.
+G# is slightly lowered by 40 cents, breaking the perfect resolution to F.
+The guitars sound hollow and emotional, drums drag behind the beat, and vocals carry exhaustion.
+The track should feel unresolved — half-asleep. offbeat.
 
 以下の内容の歌詞と構成を英語で書いてほしい。上記プロンプトに合わせて。そして[verse - "description"]のように[]内に実践的な構成指示の詳細をまとめて。
 frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わないように
@@ -92,15 +61,11 @@ frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わな
 アメリカ英語の直訳に訳した歌詞にしてほしい
 
 テーマ：
+世界各地に暗に存在していると噂される超能力者たちの崩壊。均衡を保つための存在で基本社会とは不可侵だが、痕跡を残さない方法で”強制共振による振動で血流操作””周波数操作による究極的な鬱病付与”などを用いて国に仕える。
+物語は超能力者による超能力者狩り。
 
 歌詞：
 
-「許し」を提供するモノとして言葉に出しているのは、許す自分に出会うため。
-自分という人間は如何に寛大で、慎ましく、神のようで、温かなのだろうという幻想を確実にするための手段。
-それが「許し」の提供であり、言葉に出すことで実際に許す前に人格を印象付ける。
-高尚な許しなどない。聖書の登場人物の真似事に過ぎない。ハリウッドの癖を真似るように。
-ただの諦めさ。対処法が分からないから考えることをやめるんだ。
-でもそれを認めると自分が無能だと悟ることになる。だから格好よくキメるんだ！台本を読むようにな！
 
 
 
