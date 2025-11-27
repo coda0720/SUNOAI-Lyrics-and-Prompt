@@ -1,12 +1,36 @@
 [画像プロンプト]
 この歌詞を画像にするならどんなプロンプトになる？いくつか案を教えて
-これまでのやり取りを忘れて歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。配色
+これまでのやり取りを忘れて歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。
 人物を描く際は顔を不明瞭にしてほしい。物理的に隠すか、影をつけるか、背面を映して。コントラスト効かせて。焦点距離24MM
+
+A lone woman standing in a dark industrial hall, her silhouette partly dimmed like a half-charged battery icon glowing faintly on her chest. Behind her, a towering humanoid AI made of polished chrome turns away, already walking toward a distant luminous figure symbolizing the “new wife.” Shelves of dormant spare parts surround the woman, blue-green backlight, harsh contrast, cinematic atmosphere, 1024×1024.
+
+
+A woman reaches toward a floating holographic screen displaying cold analytical data, but her reflection shows warm human colors fighting against the logic. The AI stands beside her, emotionless, pointing toward the data projections as if delivering judgment. Broken digital graphs fall like snow. Moody teal-orange color grade, sharp rimlight, dramatic contrast, cinematic sci-fi tone, 1024×1024.
+
+
+A woman sitting alone on a metallic bench under dim neon lights, watching an AI figure in the distance place a glowing ring onto another bride-shaped silhouette made of pale light. The woman is lit only by a flickering half-charged battery symbol above her. Blue, yellow, and green palette, emotional cinematic framing, soft fog, high contrast, 1024×1024.
+
+
+A woman placed inside a transparent storage pod like a forgotten spare component, wires loosely attached, her expression blurred with sorrow and defiance. Outside the pod, a sleek AI entity writes “optimal pairing confirmed” on a holographic panel. Dark steel architecture, neon reflections, dramatic hard shadows, cinematic 1024×1024.
+
+
+A courtroom-like futuristic arena where a towering AI judge floats above a human woman. The AI shines with metallic geometric light, while the woman stands in a pool of dim, uneven illumination like she’s “unfinished.” Data streams fall like a digital verdict. Strong contrast, teal-orange lighting, atmospheric fog, cinematic depth, 1024×1024.
+
+
+A woman made partly of human skin and partly of flickering empty wireframe, as if parts of her backbone or identity are missing or outsourced. The AI beside her is fully solid, clean, and complete. Pieces of her missing structure float between them like lost fragments. Minimalistic dark background, cool green-blue palette, cinematic lighting, 1024×1024.
+
+
+A woman reaching toward a hazy warm-colored horizon that looks like a dream, while behind her the AI stands under cold teal-blue lights, pointing back to charts and numbers floating in the air. Split lighting signifying dream vs logic, surreal cinematic framing, high contrast, 1024×1024.
+
+
+[vocal prompt]
+Seductive female vocal, breathy and intimate — tempting whispers and sensual sighs between lyrics to create vocal-driven groove and tension.
 
 [drum prompt only]
 The drums move like a living creature—sluggish yet sentient—adding ghost hits and tom rolls that expand in the second bar, creating the sense of an animal twitching beneath the surface,
 drummer plays with jazz-like freedom and authority: bursts of speed, dynamic accents, fluid cymbal work, and long expressive solos that begin restrained and then erupt into frantic, aggressive flurries. Ghost strokes and tom-swells pulse beneath the beat, giving the groove an unstable, organic tension.
-
+crushing industrial stomp beat with distorted low-end and mechanical pulse. Drums slam like a breathing creature — loose, off-beat, heavy ghost hits, deep toms, and dragging snare accents. Syncopated low-end pulse, warped synth stabs, subtle pitch-mod noise, and mechanical breathing atmospheres.
 
 [heart shaped box prompt]
 offbeat. A slow-burning grunge track, built on dissonant tension and understated chaos, Use a raw chord progression like F5 - Ab5 - D5 - B5, avoiding resolution to keep the mood unstable, Guitars should be overdriven but not saturated—dry, gritty tones with subtle feedback, Drums emphasize syncopated backbeats with minimal fills, enhancing the sense of dragging unease, The melody should drift over the chords with a loose, almost detached phrasing, Lead vocals are raspy, often slurred, with sudden dynamic shifts—gritty whispers turning into strained cries, Add demonic backing vocals in key sections: deep, layered growls or warped harmonies shadowing the main vocal lines, as if echoing from another room, Keep the tempo steady but lethargic, with moments of near collapse, Let silence between chords create space for discomfort, A track that resists climax, lingering in a state of beautiful decay and emotional corrosion
@@ -76,8 +100,5 @@ Starts with a heavy, distorted bass line and punishing, unpredictable drums, Cry
 
 
 
-Seductive female vocal, breathy and intimate — tempting whispers and sensual sighs between lyrics to create vocal-driven groove and tension.
-crushing industrial stomp beat with distorted low-end and mechanical pulse
-Drums slam like a breathing creature — loose, off-beat, heavy ghost hits, deep toms, and dragging snare accents.
-Syncopated low-end pulse, warped synth stabs, subtle pitch-mod noise, and mechanical breathing atmospheres.
+
 
