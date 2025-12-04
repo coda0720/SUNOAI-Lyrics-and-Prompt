@@ -1,39 +1,10 @@
 [画像プロンプト]
 この歌詞を画像にするならどんなプロンプトになる？いくつか案を教えて
-これまでのやり取りを忘れて歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。
+これまでのやり取りを忘れて歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。配色は最低3色を使用。
 人物を描く際は顔を不明瞭にしてほしい。物理的に隠すか、影をつけるか、背面を映して。コントラスト効かせて。焦点距離24MM
 
-◆ 案1：ループする部屋の男（記憶喪失と停滞）
 
-“A small dark room lit only by a TV looping the same movie for years, a man sitting on the floor with his face turned away, surrounded by scattered notebooks with blank pages. The air vibrates with subtle distorted lines representing microtonal guitar tension. Faded posters peeling off the wall, heavy shadows, grunge texture, muted rust and teal colors, cinematic lighting, 1024×1024.”
 
-◆ 案2：名前の消えた男（存在証明の欠落）
-
-“A man standing against a dim wall covered in name tags, all blurred or scratched out, his own silhouette slightly dissolving at the edges. The word ‘Nobody’ faintly etched at the bottom of each tag, barely readable. Cold industrial palette, dry noise texture, soft fog, high contrast, 1024×1024.”
-
-◆ 案3：チャンピオン妄想と現実の断絶（分裂構図）
-
-“Split-screen composition: left side shows the man on a podium wearing a champion’s crown, crowd cheering in a blurry unreal dreamlike style; right side shows him sitting alone on a sagging mattress in a dark room. The split line cracked like broken glass, symbolizing fractured reality. Cinematic teal-orange lighting, grunge overlay, 1024×1024.”
-
-◆ 案4：街のすべてが溶ける（外に出られない理由）
-
-“A man walking through an empty city street where every passerby’s face melts into blurred streaks before fully forming. Streetlights flicker, buildings warp slightly like microtonal dissonance. Heavy contrast, dark green and amber palette, fog drifting low, 1024×1024.”
-
-◆ 案5：扉の前で止まる男（前に進めない人生）
-
-“A man frozen in the doorway of a dim apartment hallway, as if unable to step forward. The world outside is bright but distorted, bending at impossible angles. Shadows stretch unnaturally behind him. Sparse lighting, industrial grunge tones, subtle distortion effects, 1024×1024.”
-
-◆ 案6：Nobodyを倒置で視覚化（歌詞構造の象徴化）
-
-“A dark empty room with four floating text fragments, each line ending with the word ‘Nobody’ drifting at the far right like a sentence fragment. The man sits beneath them with his head down, lit by a single harsh overhead bulb. Dissonant lines and grainy film texture fill the background. Cinematic framing, 1024×1024.”
-
-◆ 案7：心の中の遅い崩壊（美しい腐食）
-
-“A close-up silhouette of a man whose chest area is cracked like corroded metal, faint red and blue lights leaking through the fractures. Behind him, shifting dissonant shapes represent offbeat rhythms and unstable chords. High-grain grunge texture, rust + steel palette, 1024×1024.”
-
-◆ 案8：沈む男（チャンピオンの夢との反転）
-
-“A man sinking slowly into a dark asphalt floor as if gravity is reversed, his hand reaching upward toward a shimmering golden trophy suspended far above him. Surrounding environment distorted, dreamlike, with subtle noise glitches. Moody cinematic palette, 1024×1024.”
 
 [vocal prompt]
 Seductive female vocal, breathy and intimate — tempting whispers and sensual sighs between lyrics to create vocal-driven groove and tension.
@@ -78,10 +49,12 @@ The track should feel unresolved — half-asleep. offbeat.
 
 
 
-タイトル：kawaii
+タイトル：Dream Maker
 
-Starts with a heavy, distorted bass line and punishing, unpredictable drums, Crystalline piano motifs cut sharply through the industrial pop R&B rock backdrop, The evolving groove mutates via ghost notes and erratic accents, A frenzied, accelerating drum break erupts, then deconstructs into scattered fragments, letting tempo decay and the groove melt away, Seductive female vocals weave sinuous, alluring melodies, punctuated with breathy rhythmic hooks, The song balances metallic aggression and luminous beauty, fusing tension and release throughout. Offbeat.　drummer plays with jazz-like freedom and authority: bursts of speed, dynamic accents, fluid cymbal work, and long expressive solos that begin restrained and then erupt into frantic, aggressive flurries. Ghost strokes and tom-swells pulse beneath the beat, giving the groove an unstable, organic tension.
-crushing industrial stomp beat with distorted low-end and mechanical pulse. Drums slam like a breathing creature — loose, off-beat, heavy ghost hits, deep toms, and dragging snare accents. Syncopated low-end pulse, warped synth stabs, subtle pitch-mod noise, and mechanical breathing atmospheres.
+A distorted grunge riff built on detuned microtonal power chords (C5–Eb5–F5–G5).
+Each chord slightly offset by random microtones (−30 to +40 cents).
+Guitars sound metallic, industrial, and corroded, with feedback noise and slow half-time drums.
+The tone feels rusty and decayed, like an old machine struggling to move. offbeat.crushing industrial stomp beat with distorted low-end and mechanical pulse. Drums slam like a breathing creature — loose, off-beat, heavy ghost hits, deep toms, and dragging snare accents. Syncopated low-end pulse, warped synth stabs, subtle pitch-mod noise, and mechanical breathing atmospheres.
 
 以下の内容の歌詞と構成を英語で書いてほしい。上記プロンプトに合わせて。そして[verse - "description"]のように[]内に実践的な構成指示の詳細をまとめて。
 frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わないように
@@ -90,16 +63,99 @@ frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わな
 アメリカ英語の直訳に訳した歌詞にしてほしい
 
 テーマ：
-
+ポルノ依存の男は25年間毎日ドーパミンの過剰分泌を安易に行ってきたため何に対しても無気力で思考が遅い。
 
 歌詞：
-可愛ければ2畳の部屋でも8万を支払えるわ
 
 
 
 
 
 ーーーーーーーーーーーーーーーーーーーーーーーーー
+
+
+
+タイトル：
+
+Aggressive hybrid track built on a heavy half-time bounce where the drums hit with tight punchy kicks sharp dry snares and abrupt fills blended with hard hip-hop swing using offbeat hats and syncopated accents while the guitars deliver short percussive detuned riffs that feel more rhythmic than melodic locking tightly with a gritty bassline that moves like a distorted sub groove, the overall beat feels like a hostile street march with stop-and-go tension and sudden explosive bursts, and the vocal delivery leans into a rap-driven cadence with clenched rhythmic phrasing sharp consonant attack muttered threats rising into explosive shouts creating a confrontational momentum that fuses metallic aggression and hip-hop swagger into one volatile pulse.
+
+以下の内容の歌詞と構成を英語で書いてほしい。上記プロンプトに合わせて。そして[verse - "description"]のように[]内に実践的な構成指示の詳細をまとめて。
+frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わないように
+
+英語で歌詞を生成したあと、日本語訳もお願い
+アメリカ英語の直訳に訳した歌詞にしてほしい
+
+テーマ：
+入れ知恵と真似事で人格形成したモノを、まるで我が物のように振り回す人々の無知と無能に気付かせようとする歌詞。信念があるように見えてそれは論破した錯覚に浸りたいだけで、真っ向から相手を非難する（まやかしの論述なので解決案もない）。意志があるように見えてそれは切り抜きメディアの印象操作にまんまと乗せられて、メディア期待通りの言葉を並べてるだけ。
+
+歌詞：
+[Verse 1]
+yo　いれじえ　やきなおしの　テンプレじゃねえ？
+ネットのこえで　じんかくできあがり　かんせいけい？
+「いしある」ってかおして　裏はリツイートのゆめ
+だれかのことば　かりて　ふみだいでかたるだけ
+
+せいぎってなのコピペろん
+かちまけでしかはかれねえしこう
+マイクにぎってんのに　こえはだれのもん？
+じぶんのこどうもきこえねえようじゃ　ほんまつてんとう
+
+[Hook]
+fake talk　じゃねえ、real をくれ
+なりやまねえメディアノイズのうえ
+belief かたるわりに　source はニュースの切り抜き
+それ　自分で考えたRealじゃねえのに
+
+[Verse 2]
+おまえのことば、まるでかりものきょうそう
+こんきょなきどごうとはくしゅかっさいのきょうめいそうち
+“ろんぱしたきぶん”で　ゆうえつかんのカプセル
+そのままねむれよ、げんじつにはかてねえぜ
+
+ぎろん debate じゃねえ、ディベートふうのけんか
+なかみすかすか、ラベルだけメンタルせんしゃ
+「それおまえのいけん？」いやだれかのだいべんしょ
+like と RT がしんこうしょじゃねえぞ
+
+[Hook 2]
+fake talk　じゃねえ、real をくれ
+もえつきるまでおどれ　ことばのうずのうえ
+切り抜かれたlogic をしんじてわらう
+yo　そのあつさもだれかのだいほんどおりだろ？
+
+[Bridge]
+はくしゅのリズムに　しこうをとかすな
+ノイズを groove に　かえるゆうきをもて
+いけんをもつってのは　さけぶことじゃねえ
+じぶんのちんもくに　ちゃんとせきにんをとれ
+
+[Verse 3]
+“トレンド”のなみにゆられてしこうていし
+はんこつをよそおうだけのどうちょうこうしん
+はんたいをさけぶほど　おなじかおのぐんしゅう
+ひとりだけ自由な気でいても、くうきょ
+
+fake な freedom　うまくやってるつもり
+だけどたましいはログインほうちのまま
+「おれはちがう」ってさけぶこえほどにてる
+むれのなかで一番でけぇかがみもってるだけ
+
+[Outro]
+おれはおれでいさせてくれ　copy じゃなく
+うわさじゃなく　はだでかんじて吐く
+しこうのドラムがずれてもかまわねえ
+この groove でしかいきれねえ
+
+yo　fake talk じゃねえ、real をくれ
+belief をとうこの beat のうえで
+こんやもだれかがまたことばをしんじる
+まやかしのなかでも　しんをさがしてる
+
+
+
+
+ーーーーーーーーーーーーーーーーーーーーーーーーー
+
 タイトル：
 
 Starts with a heavy, distorted bass line and punishing, unpredictable drums, Crystalline piano motifs cut sharply through the industrial pop R&B rock backdrop, The evolving groove mutates via ghost notes and erratic accents, A frenzied, accelerating drum break erupts, then deconstructs into scattered fragments, letting tempo decay and the groove melt away, Seductive female vocals weave sinuous, alluring melodies, punctuated with breathy rhythmic hooks, The song balances metallic aggression and luminous beauty, fusing tension and release throughout. Offbeat.　drummer plays with jazz-like freedom and authority: bursts of speed, dynamic accents, fluid cymbal work, and long expressive solos that begin restrained and then erupt into frantic, aggressive flurries. Ghost strokes and tom-swells pulse beneath the beat, giving the groove an unstable, organic tension.
