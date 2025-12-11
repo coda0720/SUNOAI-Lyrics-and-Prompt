@@ -1,8 +1,7 @@
 [画像プロンプト]
 この歌詞を画像にするならどんなプロンプトになる？画像内に文字がない条件で。いくつか案を教えて
-これまでのやり取りを忘れて歌詞を参考に正方形画像を生成してほしい。シネマティックなスタイルで。配色は最低3色を使用。
+これまでのやり取りを忘れて正方形画像を生成してほしい。シネマティックなスタイルで。配色は最低3色を使用。
 人物を描く際は顔を不明瞭にしてほしい。物理的に隠すか、影をつけるか、背面を映して。コントラスト効かせて。焦点距離24MM
-
 
 
 
@@ -21,11 +20,13 @@ A slow-burning groove that feels unstable, predatory, and alive—an offbeat emb
 
 [53-TET grunge prompt]
 Grunge-influenced experimental track built on microtonal harmony using 53-tone tuning where the chords and melodies drift with intentional pitch deviations creating unstable dissonance that feels constantly shifting, the first half moves on a jagged progression with raw abrasive guitar tones loose bass grit and rough textures while the melody slides between micro-pitches, then the second half modulates sharply into a new harmonic world with a completely different progression and fresh melodic contour, connected by an instrumental interlude where the melody gradually mutates step by step through microtonal bends and sliding tones, the drums play with jazz-like freedom using loose timing unpredictable accents and expressive dynamic bursts, and the background features dark gothic vocal layers humming low dissonant harmonies that deepen the atmosphere and add a shadowy choral weight behind the distorted grunge foundation
+[Horror]
+An eerie horror-driven track built on dissonant tones that creep forward like a looming presence, rising over a deep sub-heavy beat that builds with a demonic tension, using an unbalanced sense of tempo to create unease while industrial drums move like a living jazz creature with irregular breathing accents twitching hits and unstable rhythms, supported by a sharp high-register bass that cuts through the darkness and makes the whole atmosphere feel closer and more threatening with each pulse.
 
 
-タイトル：
+タイトル：マイノリティ
 
-
+An eerie horror-driven track built on dissonant tones that creep forward like a looming presence, rising over a deep sub-heavy beat that builds with a demonic tension, using an unbalanced sense of tempo to create unease while industrial drums move like a living jazz creature with irregular breathing accents twitching hits and unstable rhythms, supported by a sharp high-register bass that cuts through the darkness and makes the whole atmosphere feel closer and more threatening with each pulse.
 
 以下の内容の歌詞と構成を英語で書いてほしい。上記プロンプトに合わせて。そして[verse - "description"]のように[]内に実践的な構成指示の詳細をまとめて。
 frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わないように
@@ -34,6 +35,11 @@ frame, flame, hollow, echo, mimic, hum, script, noの連続はあまり使わな
 アメリカ英語の直訳に訳した歌詞にしてほしい
 
 テーマ：
+少女の行き場のない主張をテーマに。犯罪の法律のAI導入による合理的なシステムで衝動的行動に出そうな性格から選別し”犯罪者予備軍”を容疑者候補にリスト化。
+証拠不十分な場合に限りリスト上位から逮捕。（裏の目的は”健常者”の暮らしやすい社会形成。そのために障害者を一掃することは非道なため、徐々にリストから排除していく）
+少女は精神病院で行き場のない主張を日記に記す。例えば、看護師は微笑むだけで話をまともに聞いてくれない。同室の患者は自分と同じグレーソーン患者だが自分の話ばかり。一週間ごとの面談でも主張は被害妄想、無関心は重症とメモされる。
+彼女は冷静に考えることで、人類がAIの判断が正しいと思考放棄し始めてると危惧。人類が決断してるように見えてAIの掌の上だと悟る。するとある日、外で暴動が起きる。AI反対派がデモを起こしたのだ。
+自分が助け出される希望は持たず、世の中が少しでも人間を諦めない方向へ向かってると安堵して日課の薬を飲む。
 
 
 歌詞：
